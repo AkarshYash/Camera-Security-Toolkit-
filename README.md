@@ -46,8 +46,8 @@ Enter the **public IP address** of the target device when prompted.
 4️⃣ Provides **manual search URLs** for deeper investigation  
 
 ---
-**Output![WhatsApp Image 2025-05-16 at 16 34 55_769df047](https://github.com/user-attachments/assets/3476cab4-ceb2-4214-af7b-25baf8b7cfd9)
-**![WhatsApp Image 2025-05-16 at 16 34 19_84634d92](https://github.com/user-attachments/assets/110c75b6-055c-4ce3-aac7-4222589b6d8f)
+Output![WhatsApp Image 2025-05-16 at 16 34 55_769df047](https://github.com/user-attachments/assets/3476cab4-ceb2-4214-af7b-25baf8b7cfd9)
+![WhatsApp Image 2025-05-16 at 16 34 19_84634d92](https://github.com/user-attachments/assets/110c75b6-055c-4ce3-aac7-4222589b6d8f)
 
 https://github.com/user-attachments/assets/29e9adbe-e4ed-4b6a-8838-71a094d2ad17
 
