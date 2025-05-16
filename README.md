@@ -26,10 +26,7 @@
 ```  
 ```bash
 pip install -r requirements.txt
-```
----
-```
-python CamXploit.py
+
 ```
 Enter the **public IP address** of the target device when prompted.  
 
